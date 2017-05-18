@@ -1,0 +1,58 @@
+# Process and Structure
+  - Quorum required on all decisions
+  - Super Majority is 6/8
+  - Slack channel: Outlaw
+  - Max 20 in this
+  - Weekly Meetings
+  - At setup we define the number of shares as the number of buy ins
+    - Any later buy in's requires an additional share to be created of equal value of the current shares
+  - All changes to contract require Absolute Majority
+  - Out of Hooroo slack
+  - No Lessans
+  - Can not be kicked out
+  - Intention: this is not hour to hour speculation. At most weekly adjustments
+
+# Intial Members (7)
+  - Mark
+  - Jacob
+  - Adam
+  - Tom
+  - Dave
+  - Nich
+  - Lonnie
+
+# Actions
+  - [ ] Someone has to chose the trading exchange for money in
+  - [ ] Multiple people to propse stategies, with historical data
+
+# Initial Investment
+  - 0.1 BTC
+  - To be reviewed on 02/06/2017
+
+# Strategy
+  - Cash in as Fixed amount BTC (or similar crypto currency)
+  - Go from there
+
+  - Suggestions
+    - 0 Bitcoin
+
+  - Rebalance Strategy
+    - 
+
+  - Storage
+    - Use markets for now
+    - Cold storage not needed immediately
+    - Do it we need it
+
+# Exit
+  - 1/8th out in BTC (Or whatever the share number is)
+  - Regular out at 3 / 6 months
+
+# Investment Top up
+  - Euqity offer that is mandatory
+  - Different to late buy in
+  - Full Quorom decision
+
+# Late buy in
+  - Requires full Quorom
+  - Would require an investment of 1/nth of the current portfolio value where n is the number of shares
