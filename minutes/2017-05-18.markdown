@@ -37,7 +37,7 @@
     - 0 Bitcoin
 
   - Rebalance Strategy
-    - 
+    - Todo
 
   - Storage
     - Use markets for now
